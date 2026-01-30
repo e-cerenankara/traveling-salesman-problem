@@ -12,4 +12,5 @@ A genetic algorithm is used as a heuristic optimization strategy:
 - Fitness evaluation based on total path length
 - Selection of better-performing routes
 - Crossover and mutation to explore the search space
-Run the script directly to observe how the best path length evolves over generations.
+  
+**Run the script directly to observe how the best path length evolves over generations.**
